@@ -7,7 +7,7 @@ public class Main {
 
         //логика программы
         int mileAmount;
-        mileAmount = ticketPrice/mileFor;
+        mileAmount = ticketPrice / mileFor;
         System.out.println("Количество бонусных миль - " + mileAmount);
 
     }
